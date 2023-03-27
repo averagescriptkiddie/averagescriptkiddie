@@ -1,8 +1,8 @@
-# averagescriptkiddie
+# Hey there! I'm averagescriptkiddie
 
-#### dev for Red Herring Technologies
-#### 24
-#### British Columbia, Canada
+- Senior Developer for Red Herring Technologies
+- 24
+- British Columbia, Canada
 
 ### Projects:
   - Wraith DSC
