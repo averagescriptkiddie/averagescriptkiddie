@@ -1,9 +1,9 @@
 # averagescriptkiddie
 
-### dev for Red Herring Technologies
-### 24
-### British Columbia, Canada
+#### dev for Red Herring Technologies
+#### 24
+#### British Columbia, Canada
 
-## Projects:
+### Projects:
   - Wraith DSC
 
