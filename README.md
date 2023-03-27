@@ -1,4 +1,11 @@
 # Hey there! I'm averagescriptkiddie
+- Senior Developer for Red Herring Technologies
+- 24
+- British Columbia, Canada
+
+### Projects:
+  - Wraith DSC
+
 <img src="https://komarev.com/ghpvc/?username=averagescriptkiddie&color=brightgreen" alt="watching_count" /><img src="https://img.shields.io/github/stars/averagescriptkiddie?label=Stars" alt="stars">
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,vscode,photoshop)](https://skillicons.dev)
@@ -8,10 +15,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=averagescriptkiddie&theme=tokyonight" alt="mystreak"/>
 
 
-- Senior Developer for Red Herring Technologies
-- 24
-- British Columbia, Canada
-
-### Projects:
-  - Wraith DSC
 
