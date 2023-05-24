@@ -1,10 +1,8 @@
 # Hey there! I'm averagescriptkiddie
-- Senior Developer for Red Herring Technologies
-- 24
+
 - British Columbia, Canada
 
-### Projects:
-  - Wraith
+
 
 <img src="https://komarev.com/ghpvc/?username=averagescriptkiddie&color=brightgreen" alt="watching_count" /><img src="https://img.shields.io/github/stars/averagescriptkiddie?label=Stars" alt="stars">
 ## Skills
